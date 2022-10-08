@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-08T18:00:59 EET" name="Default suite" finished-at="2022-10-08T18:01:13 EET" duration-ms="14698">
+    <groups>
+    </groups>
+    <test started-at="2022-10-08T18:00:59 EET" name="Default test" finished-at="2022-10-08T18:01:13 EET" duration-ms="14698">
+      <class name="MahmoudHatem.taskonePostiveTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:MahmoudHatem.taskonePostiveTest@48f2bd5b]" started-at="2022-10-08T18:00:59 EET" name="initialize" finished-at="2022-10-08T18:01:00 EET" duration-ms="1611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="testTaskOnePostive(java.lang.String,java.lang.String)[pri:0, instance:MahmoudHatem.taskonePostiveTest@48f2bd5b]" started-at="2022-10-08T18:01:00 EET" name="testTaskOnePostive" data-provider="getData" finished-at="2022-10-08T18:01:06 EET" duration-ms="5734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahmoud@1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mahmoud@1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTaskOnePostive -->
+        <test-method signature="testTaskOnePostive(java.lang.String,java.lang.String)[pri:0, instance:MahmoudHatem.taskonePostiveTest@48f2bd5b]" started-at="2022-10-08T18:01:06 EET" name="testTaskOnePostive" data-provider="getData" finished-at="2022-10-08T18:01:08 EET" duration-ms="2481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahmoud@1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mahmoud@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTaskOnePostive -->
+        <test-method signature="testTaskOnePostive(java.lang.String,java.lang.String)[pri:0, instance:MahmoudHatem.taskonePostiveTest@48f2bd5b]" started-at="2022-10-08T18:01:08 EET" name="testTaskOnePostive" data-provider="getData" finished-at="2022-10-08T18:01:10 EET" duration-ms="1715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mahmoud@1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mahmoud@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTaskOnePostive -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MahmoudHatem.taskonePostiveTest@48f2bd5b]" started-at="2022-10-08T18:01:10 EET" name="teardown" finished-at="2022-10-08T18:01:13 EET" duration-ms="3118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- MahmoudHatem.taskonePostiveTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
